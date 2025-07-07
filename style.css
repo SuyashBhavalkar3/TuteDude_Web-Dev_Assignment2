@@ -1,0 +1,15 @@
+.header_container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box_div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-top: 50px;
+    margin: 50px auto;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
